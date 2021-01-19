@@ -7,3 +7,5 @@ rand_title = wky.random(pages=1)
 rand_page = wky.WikipediaPage(title=rand_title).summary
 print(rand_title)
 print(rand_page)
+
+#yeet
